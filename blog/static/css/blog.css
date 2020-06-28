@@ -6,7 +6,7 @@ body {
 }
 h1 a, h2 a {
     color: #3e9e81;
-    font-family: 'Lobster';
+    font-family: 'MuseoModerno', cursive;
 }
 .page-header {
     background-color: #3e9e81;
@@ -25,7 +25,7 @@ h1 a, h2 a {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'MuseoModerno', cursive;
 }
 
 .date {
